@@ -5,7 +5,6 @@ The Restaurant Money Received Management System is a software application design
 </p>
 <br>
 <h3>Abstract</h3>
-<br>
 <p>
 The Restaurant Billing System is a robust and feature-rich 
 software application meticulously developed to optimize the 
