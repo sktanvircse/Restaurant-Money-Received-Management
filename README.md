@@ -1,5 +1,4 @@
-<h2>Hi, This Project I named it <h1>Restaurant Money Received Management</h1></h2>
-<hr>
+<h2>Hi, This Project I named it... <h1>Restaurant Money Received Management</h1></h2>
 <p>
 The Restaurant Money Received Management System is a software application designed to streamline the process of managing money received by a restaurant
 </p>
